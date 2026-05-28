@@ -85,6 +85,15 @@ A modern expense-sharing application concept for splitting bills with friends.
 * Software Engineering
 
 ---
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=Abbasaali-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=Abbasaali-tech&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Abbasaali-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
 
 # ✨ Developer Quote
 
