@@ -94,6 +94,6 @@ A modern expense-sharing application concept for splitting bills with friends.
 
 # 📫 Contact Me
 
-📧 [yourmail@gmail.com](mailto:abbasaali5152@gmail.com)
+📧 [abbasaali5152@gmail.com](mailto:abbasaali5152@gmail.com)
 
 ⭐ Thanks for visiting my profile!
